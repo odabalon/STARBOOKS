@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">STARBOOKS</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="heart">Heart</string>
+    <string name="profile">Profile</string>
+    <string name="like">Like</string>
+    <string name="camera">Camera</string>
 </resources>

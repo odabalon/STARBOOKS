@@ -8,8 +8,8 @@
     tools:context=".Splash.DostSplash">
 
     <ImageView
-        android:layout_width="450dp"
-        android:layout_height="450dp"
+        android:layout_width="600dp"
+        android:layout_height="600dp"
         android:id="@+id/imageDost"
         app:srcCompat="@drawable/dost_logo"
         android:layout_gravity="center_horizontal"
